@@ -48,4 +48,6 @@ Based on 1000 books across 50 categories (see `outputs/avg_price_by_category.png
 - Next step: feed this dataset into the EDA project (Task 2).
 
 ## Author
-Your Name | LinkedIn | GitHub
+Vaibhav Dinesh Marathe
+Data Analytics Intern, CodeAlpha
+| LinkedIn [www.linkedin.com/in/vaibhavmarathe15] | GitHub [https://github.com/vmarathe1510-cpu/CodeAlpha_BookScraper]
